@@ -24,3 +24,6 @@ deadLORD135 - Анализ и ремап классов/методов
 Gish_Reloaded - Говнокодил, пастил базу
 
 DeathMeowSide - Быдлан, много выебывается, мало чего делает (Мы все ещё ждем от тебя сюрприз, ты не забыл?)
+
+Discord: !n3xtbyte#1337
+dreamcore.pw: https://discord.gg/X6NV2XwRp3
