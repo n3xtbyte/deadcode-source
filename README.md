@@ -1,4 +1,4 @@
-# DeadCode Open-Source Project
+# 🎉 DeadCode Open-Source Project
 
 Ремапнутые сурсы (с очень большим кол-вом говнокода) чита **DeadCode**.
 
